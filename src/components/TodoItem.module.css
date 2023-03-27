@@ -30,6 +30,7 @@
   color: red;
 }
 
+/* stylelint-disable-next-line selector-class-pattern */
 .textInput {
   width: 100%;
   padding: 10px;
