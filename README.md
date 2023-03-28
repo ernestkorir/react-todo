@@ -89,7 +89,7 @@ After you're finished please remove all the comments and instructions!
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-Not yet deployed(i will deploy once i merge to dev)
+Live demo(https://ernestkorir.github.io/react-todo/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
